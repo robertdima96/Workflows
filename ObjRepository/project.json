@@ -51,6 +51,8 @@
   ],
   "isTemplate": false,
   "templateProjectData": {},
-  "publishData": {},
+  "publishData": {
+    "iconUrl": ".package/Icon_CheckFocus.png"
+  },
   "targetFramework": "Legacy"
 }

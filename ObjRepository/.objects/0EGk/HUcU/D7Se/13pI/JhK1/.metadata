@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JhK13prxYUGyODbneW_4eA",
+  "Reference": "MZEy3pSgdEegUYO3BXh4hA/JhK13prxYUGyODbneW_4eA",
+  "ParentRef": "MZEy3pSgdEegUYO3BXh4hA/13pIMvbQ-0KpKyviOMhXoQ",
+  "Name": "Accounts",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-04-02T13:05:08.7589504Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-06T06:51:08.8363681Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "nCjp_bqyMkyyYgzUoLZPpw",
+  "Reference": "MZEy3pSgdEegUYO3BXh4hA/nCjp_bqyMkyyYgzUoLZPpw",
+  "ParentRef": "MZEy3pSgdEegUYO3BXh4hA/wXIdagLqkEaKQa-WpnUweQ",
+  "Name": "Home",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-04-27T15:58:50.7721536Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-04-27T15:58:50.7721536Z"
+}

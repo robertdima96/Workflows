@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/home" ContentHash="E22tG1Pis0ylCvFRCTNRIQ" DesignTimeRectangle="460, 617, 200, 46" ElementType="Button" FriendlyName="'Vendors'" FullSelectorArgument="&lt;webctrl aaname='                  Vendors' parentid='dashmenu' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='                  Vendors' parentid='dashmenu' tag='BUTTON' type='button' check:text='Vendors' /&gt;" Reference="MZEy3pSgdEegUYO3BXh4hA/xyeoOpLtpEy0EXZCxYfLeA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0nqMZ9RqotEuXy3l96y94dw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f0345f39165d206940459318e5030086.png" xmlns="">0yINAW927402VNjuXFUTraA</imageRef>
+</TargetAnchorable>
